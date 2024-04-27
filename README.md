@@ -1,21 +1,21 @@
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK QUEM ROBÔ MEU TRABALHO
 
-ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da DIO.
+ℹ️ **NOTE:** Repositório desenvolvido durante o curso Santander BOOTCAMP IA na plataforma da DIO.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
+Ebook criado com o objetivo de realizar um projeto do curso e auxiliar pessoas que procuram informações sobre os empregos do futuro
 
 ## 📕 [Clique aqui para ler](ebook.md)
 
 ## 💻 Tecnologias utilizadas no projeto
 - ChatGPT
-- MidJourney
-- PowerPoint
+- Bing - DALLE-2
+- Photoshop
 
 ## 🧠 Prompts
 
 ### ChatGPT:
 #### Ação: Título
-Crie um título de um ebook sobre o tema de CSS, o ebook é do nicho de programação e o subnicho é de CSS. O título deve ser épico e curto, e ter uma temática de Star Wars. Liste 5 variações de títulos.
+Sugestões de títulos para um ebook sobre profissões do futuro, o titulo deve ter um nome curto, atrativo e em português
 
 #### Ação: Conteúdo
 Faça um texto para ebook, com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS}. Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos de código em contextos reais. Sempre deixe um título sugestivo por tópico.
