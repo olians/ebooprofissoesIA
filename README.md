@@ -1,4 +1,4 @@
-# Projeto EBOOK QUEM ROBÔ MEU TRABALHO
+# Projeto EBOOK ELE ROBÔ MEU EMPREGO
 
 ℹ️ **NOTE:** Repositório desenvolvido durante o curso Santander BOOTCAMP IA na plataforma da DIO.
 
