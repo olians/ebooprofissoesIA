@@ -23,11 +23,11 @@ Sugestões de títulos para um ebook sobre profissões do futuro, o titulo deve 
 Crie um texto para ebook sobre as 10 profissões do futuro
 
 {REGRAS} 
-Explique sempre de uma maneira simples
-Deixe o texto enxuto,
-Sempre traga exemplos baseado em estatísticas e previsões com alto indice de acerto
-sempre deixe um título sugestivo por tópico
-Para cada tópico será 1 profissão e conteúdo de uma página
+Explique sempre de uma maneira simples.
+Deixe o texto enxuto.
+Sempre traga exemplos baseado em estatísticas e previsões com alto indice de acerto.
+Sempre deixe um título sugestivo por tópico.
+Para cada tópico será 1 profissão e conteúdo de uma página.
 
 ###  Image Creator from Microsoft Designer 
 #### 1° Ação: Ilustração para capa do livro
