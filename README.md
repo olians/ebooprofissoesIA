@@ -8,8 +8,10 @@ Ebook criado com o objetivo de realizar um projeto do curso e auxiliar pessoas q
 
 ## 💻 Tecnologias utilizadas no projeto
 - ChatGPT
-- Bing - DALLE-2
+- Image Creator from Microsoft Designer 
 - Photoshop
+- Illustrator
+- Adobe Express
 
 ## 🧠 Prompts
 
@@ -20,24 +22,20 @@ Sugestões de títulos para um ebook sobre profissões do futuro, o titulo deve 
 #### Ação: Conteúdo
 Faça um texto para ebook, com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS}. Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos de código em contextos reais. Sempre deixe um título sugestivo por tópico.
 
-### MidJourney:
-#### Ação: Título
-A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1
+###  Image Creator from Microsoft Designer 
+#### 1° Ação: Ilustração para capa do livro
+working man x humanoid robot cyborg work, fighting position, close-up, boxing match
+#### 2° Ação: Ilustração final do livro
+worker man and cyborg humanoid robot work, shaking hands, close up
 
 ## ✨ Features
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Bing Microsoft
 
-## 📚 Materiais
-- Imagens utilizadas em assets
-- Ebook gerado durante as aulas em output
 
-## 🛠️ Instruções de execução
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como PowerPoint, LibreOffice, InDesign para diagramação.
-
-## 👨‍💻 Expert
-- Felipe Aguiar
-  - [GitHub](https://github.com/felipeAguiarCode)
-  - [LinkedIn](https://www.linkedin.com/in/felipe-aguiar-504b0012a/)
-  - [Instagram](https://www.instagram.com/felipeaguiarcode/)
+## 👨‍💻 Profissional
+- Willian Oliveira Silva
+  - [GitHub](https://github.com/olians)
+  - [LinkedIn](https://www.linkedin.com/in/willian-oliveira-silva-760684134/)
+  - [Instagram](https://www.instagram.com/will_olivs/)
 
