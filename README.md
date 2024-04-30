@@ -20,7 +20,14 @@ Ebook criado com o objetivo de realizar um projeto do curso e auxiliar pessoas q
 Sugestões de títulos para um ebook sobre profissões do futuro, o titulo deve ter um nome curto, atrativo e em português
 
 #### Ação: Conteúdo
-Faça um texto para ebook, com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS}. Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos de código em contextos reais. Sempre deixe um título sugestivo por tópico.
+Crie um texto para ebook sobre as 10 profissões do futuro
+
+{REGRAS} 
+Explique sempre de uma maneira simples
+Deixe o texto enxuto,
+Sempre traga exemplos baseado em estatísticas e previsões com alto indice de acerto
+sempre deixe um título sugestivo por tópico
+Para cada tópico será 1 profissão e conteúdo de uma página
 
 ###  Image Creator from Microsoft Designer 
 #### 1° Ação: Ilustração para capa do livro
