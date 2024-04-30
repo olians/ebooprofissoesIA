@@ -1,4 +1,4 @@
-# Projeto EBOOK ELE ROBÔ MEU EMPREGO
+# Projeto EBOOK ROBÔS NO TRABALHO, ALIADOS OU SUBSTITUTOS?
 
 ℹ️ **NOTE:** Repositório desenvolvido durante o curso Santander BOOTCAMP IA na plataforma da DIO.
 
