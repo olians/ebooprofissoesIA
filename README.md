@@ -4,7 +4,7 @@
 
 Ebook criado com o objetivo de realizar um projeto do curso e auxiliar pessoas que procuram informações sobre os empregos do futuro
 
-##  [Clique aqui para ler](EBOOK_EMPREGOS_E_IA.pdf)
+##  [Clique aqui para ler](EBOOKEMPREGOSEIA.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 - ChatGPT
