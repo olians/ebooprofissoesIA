@@ -4,7 +4,7 @@
 
 Ebook criado com o objetivo de realizar um projeto do curso e auxiliar pessoas que procuram informações sobre os empregos do futuro
 
-## 📕 [Clique aqui para ler](FABULAS-DE-ESOPO.pdf)
+## 📕 [Clique aqui para ler](EBOOK EMPREGOS E IA.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 - ChatGPT
